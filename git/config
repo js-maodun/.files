@@ -5,3 +5,20 @@
     name = maodun
     email = js.maodun@gmail.com:wq
 
+[url "https://github.com/js-maodun/.files.git"]
+    insteadof = ".files"
+
+[init]
+    defaultbranch = main
+
+[status]
+    branch = true
+    showstash = true
+
+[push]
+    autosetupremote = true
+    default = current
+    followtags = true
+
+[pull]
+    default = true
