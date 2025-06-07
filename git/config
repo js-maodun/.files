@@ -1,12 +1,13 @@
 # Author:maodun
 # Modifydata:2025.6.5
+# This is a git config 
 
 [user]
     name = maodun
     email = js.maodun@gmail.com:wq
 
-[url "https://github.com/js-maodun/.files.git"]
-    insteadof = ".files"
+[url "git@github.com:js-maodun/"]
+    insteadOf = "maodun:"
 
 [init]
     defaultbranch = main
