@@ -11,7 +11,7 @@ opt.cursorline = true
 opt.signcolumn = "yes"
 
 --Indent Settings
-opt.tabstop = 2
+opt.tabstop = 4
 opt.shiftwidth = 0
 opt.autoindent = true
 
