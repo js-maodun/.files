@@ -1,9 +1,9 @@
 --Author:maodun
 --Modifydate:2025.6.6
 
-return 
+return
 {
     'MeanderingProgrammer/render-markdown.nvim',
-    dependencies = { 'nvim-treesitter/nvim-treesitter' }, 
+    dependencies = { 'nvim-treesitter/nvim-treesitter' },
     opts = {},
 }

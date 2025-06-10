@@ -29,3 +29,5 @@ opt.smartcase = true
 --Display 
 opt.termguicolors = true
 
+--Set Autoexec
+opt.autoread = true
